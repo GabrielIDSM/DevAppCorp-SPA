@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/devappcorp-spa/static/css/main.073c9b0a.css",
+    "main.js": "/devappcorp-spa/static/js/main.784849fb.js",
+    "static/js/787.99f67184.chunk.js": "/devappcorp-spa/static/js/787.99f67184.chunk.js",
+    "static/media/logo.svg": "/devappcorp-spa/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/devappcorp-spa/index.html",
+    "main.073c9b0a.css.map": "/devappcorp-spa/static/css/main.073c9b0a.css.map",
+    "main.784849fb.js.map": "/devappcorp-spa/static/js/main.784849fb.js.map",
+    "787.99f67184.chunk.js.map": "/devappcorp-spa/static/js/787.99f67184.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.784849fb.js"
+  ]
+}
