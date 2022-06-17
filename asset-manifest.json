@@ -1,7 +1,7 @@
 {
   "main.css": "/DevAppCorp-SPA/static/css/main.4c7473fd.chunk.css",
-  "main.js": "/DevAppCorp-SPA/static/js/main.24d3b5db.chunk.js",
-  "main.js.map": "/DevAppCorp-SPA/static/js/main.24d3b5db.chunk.js.map",
+  "main.js": "/DevAppCorp-SPA/static/js/main.51cd9630.chunk.js",
+  "main.js.map": "/DevAppCorp-SPA/static/js/main.51cd9630.chunk.js.map",
   "static/js/1.10b78bcf.chunk.js": "/DevAppCorp-SPA/static/js/1.10b78bcf.chunk.js",
   "static/js/1.10b78bcf.chunk.js.map": "/DevAppCorp-SPA/static/js/1.10b78bcf.chunk.js.map",
   "runtime~main.js": "/DevAppCorp-SPA/static/js/runtime~main.96ba338e.js",
@@ -13,6 +13,6 @@
   "static/media/zoom.png": "/DevAppCorp-SPA/static/media/zoom.86f43cd5.png",
   "static/css/main.4c7473fd.chunk.css.map": "/DevAppCorp-SPA/static/css/main.4c7473fd.chunk.css.map",
   "index.html": "/DevAppCorp-SPA/index.html",
-  "precache-manifest.22336e8e712bc74d824175c7e3098107.js": "/DevAppCorp-SPA/precache-manifest.22336e8e712bc74d824175c7e3098107.js",
+  "precache-manifest.d2fc14dfdcdbcdbfdb7933999a93a909.js": "/DevAppCorp-SPA/precache-manifest.d2fc14dfdcdbcdbfdb7933999a93a909.js",
   "service-worker.js": "/DevAppCorp-SPA/service-worker.js"
 }

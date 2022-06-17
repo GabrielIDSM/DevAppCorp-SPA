@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "24d3b5dbb5807343567b",
+    "revision": "51cd963032c507336c0d",
     "url": "/DevAppCorp-SPA/static/css/main.4c7473fd.chunk.css"
   },
   {
-    "revision": "24d3b5dbb5807343567b",
-    "url": "/DevAppCorp-SPA/static/js/main.24d3b5db.chunk.js"
+    "revision": "51cd963032c507336c0d",
+    "url": "/DevAppCorp-SPA/static/js/main.51cd9630.chunk.js"
   },
   {
     "revision": "10b78bcfadf2ac7af537",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/DevAppCorp-SPA/static/media/zoom.86f43cd5.png"
   },
   {
-    "revision": "f2c0ac018f89410c9322cee9c1a37b40",
+    "revision": "c1cdf4eff878eae594a0ad85f7660583",
     "url": "/DevAppCorp-SPA/index.html"
   }
 ];
