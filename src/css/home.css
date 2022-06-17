@@ -1,0 +1,86 @@
+.Home-card {
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.Home-card-body {
+    padding: 0;
+}
+
+.Home-card-box {
+    height: 50px;
+    position: relative;
+}
+
+.Home-card-box div {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.Home-card-box div p {
+    font-size: 14pt;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+.Home-card-box-ok {
+    background-color: green;
+    color: white;
+}
+
+.Home-card-box-warning {
+    background-color: yellow;
+    color: black;
+}
+
+.Home-card-box-danger {
+    background-color: orange;
+    color: black;
+}
+
+.Home-card-box-critical {
+    background-color: red;
+    color: white;
+}
+
+.Home-card-box-failed {
+    background-color: black;
+    color: white;
+}
+
+.Home-card-image-box {
+    height: 200px;
+    position: relative;
+}
+
+.Home-card-image-box img {
+    display: block;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.Home-main {
+    padding: 0 5px;
+    margin-bottom: 75px;
+}
+
+.Home-main-title {
+    font-size: 20pt;
+    font-weight: bold;
+    color: black;
+}
+
+.Home-main-content {
+    font-size: 14pt;
+    color: black;
+    text-align: justify;
+}
