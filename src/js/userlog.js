@@ -102,7 +102,7 @@ class Userlog extends Component {
                                         <tr key={obj.id}>
                                             <td>{obj.id}</td>
                                             <td>{obj.user.username}</td>
-                                            <td>{obj.timestamp}</td>
+                                            <td>{new Date(obj.timestamp).toLocaleString("pt-BR", {timeZoneName: "short"})}</td>
                                             <td>
                                                 <button
                                                     type="button"
